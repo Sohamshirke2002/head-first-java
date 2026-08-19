@@ -1,0 +1,23 @@
+# --- Obsidian: per-device state, must NOT be synced ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json.bak
+
+# Obsidian Git plugin's own local state
+.obsidian/plugins/obsidian-git/data.json
+
+# Deleted notes (Obsidian's local trash)
+.trash/
+
+# --- OS junk ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# --- Editors / tooling ---
+*.swp
+*~
